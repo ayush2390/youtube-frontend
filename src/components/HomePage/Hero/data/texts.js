@@ -1,0 +1,20 @@
+const texts = {
+  brandName: `TUBE`,
+  brandName1: `LOADER`,
+  mainHeading: `YOUTUBE`,
+  mainHeading1: ` VIDEO DOWNLOADER`,
+  subheading: `Free, fast, and no ads. Paste a YouTube URL to download instantly.`,
+  urlInputPlaceholder: `https://www.youtube.com/watch?v=`,
+  termsAndConditions: `By using our service you accept our `,
+  termsAndConditions1: `Terms of Service`,
+  termsAndConditions2: ` and `,
+  termsAndConditions3: `Privacy Policy`,
+  qualityOptionsHeading: `Download Quality`,
+  kQualityOption: `Mp4 - 4k`,
+  pQualityOption: `Mp4 - 1080p`,
+  pQualityOption1: `Mp4 - 720p`,
+  pQualityOption2: `Mp4 - 360p`,
+  mp3QualityOption: `MP3 - 320kbps`,
+  downloadCta: `Download`,
+};
+export default texts;

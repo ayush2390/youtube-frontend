@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In src/App.css or another global CSS file */
+@font-face {
+    font-family: 'American Captain';
+    src: url('./fonts/American Captain.ttf') format('truetype'); /* Adjust path and format as necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
